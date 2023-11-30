@@ -1,6 +1,6 @@
 package producerConsumer;
-
 import java.util.concurrent.Semaphore;
+
 
 public class Producer implements Runnable {
     private Store store;
